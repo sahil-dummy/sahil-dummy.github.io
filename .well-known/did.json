@@ -1,0 +1,22 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:sahil-dummy.github.io",
+  "assertionMethod": [
+    {
+      "id": "did:web:sahil-dummy.github.io#74406645cff0b40ae22bec8a0ad8ec3fe86ab15357ac905346e7016fac0b530a",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:sahil-dummy.github.io",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "crv": "P-256",
+        "x": "1VOlCcw_DY1SJBJkzAPiCBxDnqaX0l2ALsBHQmnLecM=",
+        "y": "eqPtyX1n3MVA2_T65XC4zW7HuZS9pGLEsBD7_qpO_jY=",
+        "kid": "74406645cff0b40ae22bec8a0ad8ec3fe86ab15357ac905346e7016fac0b530a",
+        "alg": "ES256"
+      }
+    }
+  ]
+}
