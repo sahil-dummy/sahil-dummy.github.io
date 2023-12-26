@@ -6,15 +6,15 @@
   "id": "did:web:sahil-dummy.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:sahil-dummy.github.io#e88aab02a17b70c9251f26db3a1262837e00bc105d99c13f454cdb4a948ffbc6",
+      "id": "did:web:sahil-dummy.github.io#7182d00846ec4dd94961dae49347e7fbeed929f3dbab30db52cf41089919324d",
       "type": "JsonWebKey2020",
       "controller": "did:web:sahil-dummy.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "QFXdWtGGb7-nhR2vkPa2PMzrqU79X8T9BfG_oDoNoCc=",
-        "y": "N36qxXmKDcUHX6-8Hgfg2g4S6wQzkNRcxdooDB4lDZI=",
-        "kid": "e88aab02a17b70c9251f26db3a1262837e00bc105d99c13f454cdb4a948ffbc6",
+        "x": "wR9cTkDJycmrX6MiF1BS4v8CK5QH7IA1HT092r0lUUE=",
+        "y": "ojrsdsiVgSIfK4d8CV_TaCC_mc_owvbTq_d5AJS52tM=",
+        "kid": "7182d00846ec4dd94961dae49347e7fbeed929f3dbab30db52cf41089919324d",
         "alg": "ES256"
       }
     }
